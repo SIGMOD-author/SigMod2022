@@ -1,0 +1,71 @@
+20 Downtown videos
+New York
+1) Driving Downtown - New York City 4K - USA
+https://www.youtube.com/watch?v=7HaJArMDKgI&list=PLvEhUAlWIdM1pUiskfFlIee4El1Jkw579&index=1&ab_channel=JUtah
+2) New York City 4K - Neon Nightlife Drive
+https://www.youtube.com/watch?v=n1xkO0_lSU0&list=PLvEhUAlWIdM1pUiskfFlIee4El1Jkw579&index=4&ab_channel=JUtah
+3) New York City 4K - Main Street Broadway - USA
+https://www.youtube.com/watch?v=wOLS3VeFuVM&list=PLvEhUAlWIdM1pUiskfFlIee4El1Jkw579&index=10&ab_channel=JUtah
+4) Driving Downtown - Broadway 4K - New York City USA
+https://www.youtube.com/watch?v=1vP3AE978u4&list=PLvEhUAlWIdM1pUiskfFlIee4El1Jkw579&index=13&ab_channel=JUtah
+5) New York City 4K - Brooklyn Skyscraper Drive
+https://www.youtube.com/watch?v=aeB020VZSFY&list=PLvEhUAlWIdM1pUiskfFlIee4El1Jkw579&index=5&ab_channel=JUtah
+
+London
+1) London 4K - Skyscraper District Drive - City of London 
+https://www.youtube.com/watch?v=QI4_dGvZ5yE&list=PLvEhUAlWIdM0D28MMMATmkcumBqKti2kW&ab_channel=JUtah
+2) London 4K - Night Drive - UK
+https://www.youtube.com/watch?v=Ujyu8foke60&list=PLvEhUAlWIdM0D28MMMATmkcumBqKti2kW&index=2&ab_channel=JUtah
+3) London 4K - Rich Neighborhood Drive
+https://www.youtube.com/watch?v=egywJW6blng&list=PLvEhUAlWIdM0D28MMMATmkcumBqKti2kW&index=4&ab_channel=JUtah
+4) London 4K - Sunset Drive - Driving Downtown - Central London England
+https://www.youtube.com/watch?v=-jJVi-UxL9Y&list=PLvEhUAlWIdM0D28MMMATmkcumBqKti2kW&index=6&ab_channel=JUtah
+5) London 4K - Scenic Villages - Driving Downtown - England
+https://www.youtube.com/watch?v=gJVC4CsiQss&list=PLvEhUAlWIdM0D28MMMATmkcumBqKti2kW&index=9&ab_channel=JUtah
+
+Los Angeles
+1) Driving Downtown - Los Angeles 4K - USA
+https://www.youtube.com/watch?v=Cw0d-nqSNE8&list=PLvEhUAlWIdM1BRHtGABZL3oCobbOfk4xO&index=2&ab_channel=JUtah
+2) Driving Downtown - Los Angeles 4K - USA
+https://www.youtube.com/watch?v=9m0bC07LA64&list=PLvEhUAlWIdM1BRHtGABZL3oCobbOfk4xO&index=9&ab_channel=JUtah
+3) Driving Downtown - Santa Monica 4K - Los Angeles USA
+https://www.youtube.com/watch?v=Zmt_7JcNXh8&list=PLvEhUAlWIdM1BRHtGABZL3oCobbOfk4xO&index=16&ab_channel=JUtah
+4) Los Angeles 4K - DTLA & Hollywood - Driving Downtown - USA
+https://www.youtube.com/watch?v=xyyrsvSK9S4&list=PLvEhUAlWIdM1BRHtGABZL3oCobbOfk4xO&index=19&ab_channel=JUtah
+5) Los Angeles 4K - Skyscraper Metropolis
+https://www.youtube.com/watch?v=zfblxgasy-0&list=PLvEhUAlWIdM1BRHtGABZL3oCobbOfk4xO&index=34&ab_channel=JUtah
+
+Chicago
+1) Driving Downtown - Chicago 4K - USA
+https://www.youtube.com/watch?v=kOMWAnxKq58&list=PLvEhUAlWIdM3YpL3DlZK7cJi4qpRA8wEa&ab_channel=JUtah
+2) Chicago 4K - Sunset Drive - Driving Downtown
+https://www.youtube.com/watch?v=3ma3yXXc3V8&list=PLvEhUAlWIdM3YpL3DlZK7cJi4qpRA8wEa&index=2&ab_channel=JUtah
+3) Chicago 4K - Downtown Skyscrapers - Driving Downtown
+https://www.youtube.com/watch?v=x42Wxn1btTY&list=PLvEhUAlWIdM3YpL3DlZK7cJi4qpRA8wEa&index=3&ab_channel=JUtah
+4) Chicago 4K - Chicago's Main Street - Driving Downtown - The Magnificent Mile
+https://www.youtube.com/watch?v=wdIu8XdqtWM&list=PLvEhUAlWIdM3YpL3DlZK7cJi4qpRA8wEa&index=6&ab_channel=JUtah
+5) Chicago 4K - Night Drive - Driving Downtown
+https://www.youtube.com/watch?v=X7Mv6yugq1c&list=PLvEhUAlWIdM3YpL3DlZK7cJi4qpRA8wEa&index=4&ab_channel=JUtah
+
+20 Highway and national parks
+1-11) 2016 USA Southwest Road Trip (Youtube playlist, from 2-12)
+https://www.youtube.com/playlist?list=PLAPSA_jt5N--RwdEm5ah7w916W7OLlKAI
+12-14) Highways and Roads of Colorado (Whole playlist)
+https://www.youtube.com/playlist?list=PLAPSA_jt5N-_bSJSsHlMOzsJmKY0grHMI
+15-19) Highways and Roads of Arizona (Whole playlist)
+https://www.youtube.com/playlist?list=PLAPSA_jt5N-8VHWjRVXDVy2g37Tzb-HbY
+20) Interstate 11 Nevada: Boulder City Bypass
+https://www.youtube.com/watch?v=CLateP_7Ouo&list=PLAPSA_jt5N-82aRS6plgcggNFg8w3J5Ll&ab_channel=AmericanRoads
+
+2 train station surveillance cameras (live feed, use OVS to capture video segement from each one)
+1) Kansas City, Missouri USA - Virtual Railfan LIVE - Kansas City East
+https://www.youtube.com/watch?v=WUBQJosNm8o&ab_channel=VirtualRailfan
+2) San Juan Capistrano, California USA - Virtual Railfan LIVE
+https://www.youtube.com/watch?v=zXqx56hlpd4&ab_channel=VirtualRailfan
+
+
+2 harbour cameras
+1) Werkhaven Urk
+https://www.youtube.com/watch?v=IebzjqLQoYg&ab_channel=AlphaTech
+2) WebCam.NL | www.hollandmarinas.com | live FULL HD PTZ camera.
+https://www.youtube.com/watch?v=7g0lWkV61lY&feature=emb_logo&ab_channel=WebCamNL

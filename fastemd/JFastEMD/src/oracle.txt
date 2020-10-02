@@ -1,0 +1,136 @@
+Sig1 has 288 features.
+Sig2 has 329 features.
+[f1, f2]: 0.4127128903788324
+Sig1 has 288 features.
+Sig2 has 253 features.
+[f1, f3]: 0.4416568683230995
+Sig1 has 288 features.
+Sig2 has 283 features.
+[f1, f4]: 0.5704690547947051
+Sig1 has 288 features.
+Sig2 has 301 features.
+[f1, f5]: 0.4135723138940021
+Sig1 has 288 features.
+Sig2 has 281 features.
+[f1, f6]: 0.5470594120702377
+Sig1 has 288 features.
+Sig2 has 152 features.
+[f1, f7]: 0.49836709932877477
+Sig1 has 288 features.
+Sig2 has 153 features.
+[f1, f8]: 0.5377568183090824
+Sig1 has 288 features.
+Sig2 has 145 features.
+[f1, f9]: 0.6426925068320946
+Sig1 has 288 features.
+Sig2 has 183 features.
+[f1, f10]: 0.4699273177056
+Sig1 has 329 features.
+Sig2 has 253 features.
+[f2, f3]: 0.5278029813889963
+Sig1 has 329 features.
+Sig2 has 283 features.
+[f2, f4]: 0.6023316889448094
+Sig1 has 329 features.
+Sig2 has 301 features.
+[f2, f5]: 0.47866479415759616
+Sig1 has 329 features.
+Sig2 has 281 features.
+[f2, f6]: 0.5806499945481427
+Sig1 has 329 features.
+Sig2 has 152 features.
+[f2, f7]: 0.5374260425482483
+Sig1 has 329 features.
+Sig2 has 153 features.
+[f2, f8]: 0.5599420212927142
+Sig1 has 329 features.
+Sig2 has 145 features.
+[f2, f9]: 0.6040780641181396
+Sig1 has 329 features.
+Sig2 has 183 features.
+[f2, f10]: 0.5796764825021146
+Sig1 has 253 features.
+Sig2 has 283 features.
+[f3, f4]: 0.5146883211092838
+Sig1 has 253 features.
+Sig2 has 301 features.
+[f3, f5]: 0.5500672671238493
+Sig1 has 253 features.
+Sig2 has 281 features.
+[f3, f6]: 0.5765714892600304
+Sig1 has 253 features.
+Sig2 has 152 features.
+[f3, f7]: 0.5457010050442428
+Sig1 has 253 features.
+Sig2 has 153 features.
+[f3, f8]: 0.5154152358294919
+Sig1 has 253 features.
+Sig2 has 145 features.
+[f3, f9]: 0.608408975301836
+Sig1 has 253 features.
+Sig2 has 183 features.
+[f3, f10]: 0.5664713386214943
+Sig1 has 283 features.
+Sig2 has 301 features.
+[f4, f5]: 0.5150095479416582
+Sig1 has 283 features.
+Sig2 has 281 features.
+[f4, f6]: 0.5109868613534492
+Sig1 has 283 features.
+Sig2 has 152 features.
+[f4, f7]: 0.5253248973152149
+Sig1 has 283 features.
+Sig2 has 153 features.
+[f4, f8]: 0.4716280572196169
+Sig1 has 283 features.
+Sig2 has 145 features.
+[f4, f9]: 0.5243753119163653
+Sig1 has 283 features.
+Sig2 has 183 features.
+[f4, f10]: 0.5766219107864876
+Sig1 has 301 features.
+Sig2 has 281 features.
+[f5, f6]: 0.4030517562248376
+Sig1 has 301 features.
+Sig2 has 152 features.
+[f5, f7]: 0.5268504725088233
+Sig1 has 301 features.
+Sig2 has 153 features.
+[f5, f8]: 0.5327763701240779
+Sig1 has 301 features.
+Sig2 has 145 features.
+[f5, f9]: 0.49128925569235843
+Sig1 has 301 features.
+Sig2 has 183 features.
+[f5, f10]: 0.4972040814594739
+Sig1 has 281 features.
+Sig2 has 152 features.
+[f6, f7]: 0.4627338705184951
+Sig1 has 281 features.
+Sig2 has 153 features.
+[f6, f8]: 0.5117831167101187
+Sig1 has 281 features.
+Sig2 has 145 features.
+[f6, f9]: 0.4894043077020796
+Sig1 has 281 features.
+Sig2 has 183 features.
+[f6, f10]: 0.47786908593626753
+Sig1 has 152 features.
+Sig2 has 153 features.
+[f7, f8]: 0.4256782249460691
+Sig1 has 152 features.
+Sig2 has 145 features.
+[f7, f9]: 0.5938067445809627
+Sig1 has 152 features.
+Sig2 has 183 features.
+[f7, f10]: 0.5089578921575652
+Sig1 has 153 features.
+Sig2 has 145 features.
+[f8, f9]: 0.6159807738845235
+Sig1 has 153 features.
+Sig2 has 183 features.
+[f8, f10]: 0.640418566537154
+Sig1 has 145 features.
+Sig2 has 183 features.
+[f9, f10]: 0.5299166242862736
+Average is 0.4311595947859871

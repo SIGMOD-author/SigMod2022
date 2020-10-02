@@ -1,0 +1,74 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Pnode	com/jperch/Pnode.java	/^    public Pnode() {$/;"	m	class:Pnode
+Pnode	com/jperch/Pnode.java	/^class Pnode {$/;"	c
+Ptree	com/jperch/Ptree.java	/^    public Ptree() {$/;"	m	class:Ptree
+Ptree	com/jperch/Ptree.java	/^class Ptree {$/;"	c
+Test	com/jperch/Test.java	/^class Test {$/;"	c
+TestHighDim	com/jperch/TestHighDim.java	/^class TestHighDim {$/;"	c
+addChild	com/jperch/Pnode.java	/^    protected void addChild(Pnode newChild) {$/;"	m	class:Pnode
+addSignature	com/jperch/Pnode.java	/^    protected void addSignature(Signature x) {$/;"	m	class:Pnode
+addSigs	com/jperch/Pnode.java	/^    Set<Signature> addSigs;$/;"	f	class:Pnode
+ancestors	com/jperch/Pnode.java	/^    protected List<Pnode> ancestors() {$/;"	m	class:Pnode
+aunts	com/jperch/Pnode.java	/^    protected List<Pnode> aunts() {$/;"	m	class:Pnode
+canRotateForBalance	com/jperch/Ptree.java	/^    protected boolean canRotateForBalance(Pnode x) {$/;"	m	class:Ptree
+children	com/jperch/Pnode.java	/^    Set<Pnode> children;$/;"	f	class:Pnode
+cluster	com/jperch/Ptree.java	/^    protected List<Pnode> cluster(int k) {$/;"	m	class:Ptree
+clusters	com/jperch/Ptree.java	/^    Set<Pnode> clusters;$/;"	f	class:Ptree
+com.jperch	com/jperch/Pnode.java	/^package com.jperch;$/;"	p
+com.jperch	com/jperch/Ptree.java	/^package com.jperch;$/;"	p
+com.jperch	com/jperch/Test.java	/^package com.jperch;$/;"	p
+com.jperch	com/jperch/TestHighDim.java	/^package com.jperch;$/;"	p
+cost	com/jperch/Pnode.java	/^    double cost;$/;"	f	class:Pnode
+cost	com/jperch/Ptree.java	/^    protected double cost(Pnode x) {$/;"	m	class:Ptree
+deleteNode	com/jperch/Ptree.java	/^    private Pnode deleteNode(Pnode p) {$/;"	m	class:Ptree	file:
+depth	com/jperch/Pnode.java	/^    protected int depth() {$/;"	m	class:Pnode
+descendants	com/jperch/Pnode.java	/^    protected List<Pnode> descendants() {$/;"	m	class:Pnode
+dist	com/jperch/Ptree.java	/^    Map<Signature, Map<Signature, Double>> dist;$/;"	f	class:Ptree
+exactMatch	com/jperch/Pnode.java	/^    protected Pnode exactMatch(Signature x) {$/;"	m	class:Pnode
+getSignature	com/jperch/Test.java	/^    static Signature getSignature(String fileName) throws FileNotFoundException {$/;"	m	class:Test
+getSignature	com/jperch/TestHighDim.java	/^    static Signature getSignature(String fileName, int dimension) throws FileNotFoundException {$/;"	m	class:TestHighDim
+height	com/jperch/Pnode.java	/^    protected int height() {$/;"	m	class:Pnode
+insert	com/jperch/Ptree.java	/^    public void insert(Signature s) {$/;"	m	class:Ptree
+isCloserToAunt	com/jperch/Ptree.java	/^    private boolean isCloserToAunt(Pnode x) {$/;"	m	class:Ptree	file:
+isInternal	com/jperch/Pnode.java	/^    protected boolean isInternal() {$/;"	m	class:Pnode
+isLeaf	com/jperch/Pnode.java	/^    protected boolean isLeaf() {$/;"	m	class:Pnode
+lca	com/jperch/Pnode.java	/^    protected Pnode lca(Pnode x) {$/;"	m	class:Pnode
+leaves	com/jperch/Pnode.java	/^    protected List<Pnode> leaves() {$/;"	m	class:Pnode
+levelTransversal	com/jperch/Test.java	/^    static void levelTransversal(Pnode root) {$/;"	m	class:Test
+levelTransversal	com/jperch/TestHighDim.java	/^    static void levelTransversal(Pnode root) {$/;"	m	class:TestHighDim
+main	com/jperch/Test.java	/^    public static void main (String[] args) {$/;"	m	class:Test
+main	com/jperch/TestHighDim.java	/^    public static void main (String[] args) {$/;"	m	class:TestHighDim
+maxDistance	com/jperch/Ptree.java	/^    private double maxDistance(Pnode x, Pnode y) {$/;"	m	class:Ptree	file:
+minDistance	com/jperch/Ptree.java	/^    private double minDistance(Pnode x, Pnode y) {$/;"	m	class:Ptree	file:
+parent	com/jperch/Pnode.java	/^    Pnode parent;$/;"	f	class:Pnode
+recursiveRotateIfMasked	com/jperch/Ptree.java	/^    private void recursiveRotateIfMasked(Pnode x) {$/;"	m	class:Ptree	file:
+recursiveRotateIfUnbalanced	com/jperch/Ptree.java	/^    private void recursiveRotateIfUnbalanced(Pnode x) {$/;"	m	class:Ptree	file:
+removal	com/jperch/Pnode.java	/^    boolean removal;$/;"	f	class:Pnode
+remove	com/jperch/Ptree.java	/^    public void remove(Signature s) {$/;"	m	class:Ptree
+removeSignature	com/jperch/Pnode.java	/^    protected void removeSignature(Signature x) {$/;"	m	class:Pnode
+representativeFinding	com/jperch/Pnode.java	/^    protected Signature representativeFinding() {$/;"	m	class:Pnode
+root	com/jperch/Pnode.java	/^    protected Pnode root() {$/;"	m	class:Pnode
+root	com/jperch/Ptree.java	/^    Pnode root;$/;"	f	class:Ptree
+rotate	com/jperch/Ptree.java	/^    private void rotate(Pnode x) {$/;"	m	class:Ptree	file:
+rotateImproveBalance	com/jperch/Ptree.java	/^    protected boolean rotateImproveBalance(Pnode x) {$/;"	m	class:Ptree
+rotateWithoutMasking	com/jperch/Ptree.java	/^    protected boolean rotateWithoutMasking(Pnode x) {$/;"	m	class:Ptree
+siblings	com/jperch/Pnode.java	/^    protected List<Pnode> siblings() {$/;"	m	class:Pnode
+signatureCounter	com/jperch/Pnode.java	/^    int signatureCounter;$/;"	f	class:Pnode
+sigs	com/jperch/Pnode.java	/^    Set<Signature> sigs;$/;"	f	class:Pnode
+sigs	com/jperch/Ptree.java	/^    Set<Signature> sigs;$/;"	f	class:Ptree
+silhouetteValue	com/jperch/Ptree.java	/^    protected double silhouetteValue(List<Pnode> list) {$/;"	m	class:Ptree
+skm	com/jperch/Pnode.java	/^    StreamKMOMRk skm;$/;"	f	class:Pnode
+splitDown	com/jperch/Ptree.java	/^    private Pnode splitDown(Signature x, Pnode p) {$/;"	m	class:Ptree	file:
+sv	com/jperch/Ptree.java	/^    public double sv;$/;"	f	class:Ptree
+uniqueId	com/jperch/Pnode.java	/^    String uniqueId;$/;"	f	class:Pnode
+updateDist	com/jperch/Ptree.java	/^    Signature updateDist(Signature x) {$/;"	m	class:Ptree
+updateInsertCost	com/jperch/Ptree.java	/^    private void updateInsertCost(Pnode cur, Pnode changeChild, Signature delta) {$/;"	m	class:Ptree	file:
+updateInsertCostRecursively	com/jperch/Ptree.java	/^    private void updateInsertCostRecursively(Pnode p, Pnode changeChild, Signature s) {$/;"	m	class:Ptree	file:
+updateParamsRecursively	com/jperch/Pnode.java	/^    protected void updateParamsRecursively() {$/;"	m	class:Pnode
+updateRemoveCost	com/jperch/Ptree.java	/^    private void updateRemoveCost(Pnode p) {$/;"	m	class:Ptree	file:
+updateRemoveCostRecursively	com/jperch/Ptree.java	/^    private void updateRemoveCostRecursively(Pnode p) {$/;"	m	class:Ptree	file:

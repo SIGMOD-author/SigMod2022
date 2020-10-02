@@ -1,0 +1,57 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Index	com/video/zilla/Index.java	/^    public Index() {$/;"	m	class:Index
+Index	com/video/zilla/Index.java	/^public abstract class Index {$/;"	c
+InterCameraIndex	com/video/zilla/InterCameraIndex.java	/^    public InterCameraIndex(String appId) {$/;"	m	class:InterCameraIndex
+InterCameraIndex	com/video/zilla/InterCameraIndex.java	/^public class InterCameraIndex extends Index {$/;"	c
+IntraCameraIndex	com/video/zilla/IntraCameraIndex.java	/^    public IntraCameraIndex(String appId, String cameraId, int maxStreamLength, InterCameraIndex inter) {$/;"	m	class:IntraCameraIndex
+IntraCameraIndex	com/video/zilla/IntraCameraIndex.java	/^public class IntraCameraIndex extends Index {$/;"	c
+Main	com/video/zilla/Main.java	/^public class Main {$/;"	c
+QueryResult	com/video/zilla/QueryResult.java	/^    public QueryResult(long beginTimestamp, long endTimestamp, String cameraId) {$/;"	m	class:QueryResult
+QueryResult	com/video/zilla/QueryResult.java	/^public class QueryResult {$/;"	c
+addIntraIndex	com/video/zilla/InterCameraIndex.java	/^    public void addIntraIndex(IntraCameraIndex intra) {$/;"	m	class:InterCameraIndex
+appId	com/video/zilla/InterCameraIndex.java	/^    protected String appId;$/;"	f	class:InterCameraIndex
+appId	com/video/zilla/IntraCameraIndex.java	/^    protected String appId;$/;"	f	class:IntraCameraIndex
+beginTimestamp	com/video/zilla/IntraCameraIndex.java	/^    long beginTimestamp;$/;"	f	class:IntraCameraIndex
+beginTimestamp	com/video/zilla/QueryResult.java	/^    long beginTimestamp;$/;"	f	class:QueryResult
+cameraId	com/video/zilla/IntraCameraIndex.java	/^    protected String cameraId;$/;"	f	class:IntraCameraIndex
+cameraId	com/video/zilla/QueryResult.java	/^    String cameraId;$/;"	f	class:QueryResult
+com.video.zilla	com/video/zilla/Index.java	/^package com.video.zilla;$/;"	p
+com.video.zilla	com/video/zilla/InterCameraIndex.java	/^package com.video.zilla;$/;"	p
+com.video.zilla	com/video/zilla/IntraCameraIndex.java	/^package com.video.zilla;$/;"	p
+com.video.zilla	com/video/zilla/Main.java	/^package com.video.zilla;$/;"	p
+com.video.zilla	com/video/zilla/QueryResult.java	/^package com.video.zilla;$/;"	p
+convertCurrentBuffer	com/video/zilla/IntraCameraIndex.java	/^    private Signature convertCurrentBuffer(int beginIndex, int size) {$/;"	m	class:IntraCameraIndex	file:
+currentFeatureBuffer	com/video/zilla/IntraCameraIndex.java	/^    protected List<Feature> currentFeatureBuffer;$/;"	f	class:IntraCameraIndex
+database	com/video/zilla/InterCameraIndex.java	/^    protected Map<String, Signature> database;$/;"	f	class:InterCameraIndex
+dispatch	com/video/zilla/InterCameraIndex.java	/^    private List<QueryResult> dispatch(FeatureND q, Map<String, List<Signature>> dispatchMap) {$/;"	m	class:InterCameraIndex	file:
+divideCurrentBuffer	com/video/zilla/IntraCameraIndex.java	/^    private Signature[] divideCurrentBuffer() {$/;"	m	class:IntraCameraIndex	file:
+endTimestamp	com/video/zilla/QueryResult.java	/^    long endTimestamp;$/;"	f	class:QueryResult
+firstOutlierIndex	com/video/zilla/IntraCameraIndex.java	/^    int firstOutlierIndex;$/;"	f	class:IntraCameraIndex
+insert	com/video/zilla/Index.java	/^    public void insert(Signature s) {$/;"	m	class:Index
+insertFeature	com/video/zilla/IntraCameraIndex.java	/^    public void insertFeature(FeatureND f) {$/;"	m	class:IntraCameraIndex
+inter	com/video/zilla/IntraCameraIndex.java	/^    protected InterCameraIndex inter;$/;"	f	class:IntraCameraIndex
+isDrift	com/video/zilla/IntraCameraIndex.java	/^    private boolean isDrift() {$/;"	m	class:IntraCameraIndex	file:
+isOutlier	com/video/zilla/IntraCameraIndex.java	/^    private boolean isOutlier(FeatureND f) {$/;"	m	class:IntraCameraIndex	file:
+main	com/video/zilla/Main.java	/^    public static void main(String[] argv) {$/;"	m	class:Main
+map	com/video/zilla/InterCameraIndex.java	/^    protected Map<String, IntraCameraIndex> map; $/;"	f	class:InterCameraIndex
+maxStreamLength	com/video/zilla/IntraCameraIndex.java	/^    long maxStreamLength;$/;"	f	class:IntraCameraIndex
+outlierClustering	com/video/zilla/IntraCameraIndex.java	/^    protected StreamKMOMRk outlierClustering;$/;"	f	class:IntraCameraIndex
+outliersFeatureBuffer	com/video/zilla/IntraCameraIndex.java	/^    protected List<Feature> outliersFeatureBuffer;$/;"	f	class:IntraCameraIndex
+previous	com/video/zilla/IntraCameraIndex.java	/^    protected Pnode previous;$/;"	f	class:IntraCameraIndex
+previousSignature	com/video/zilla/IntraCameraIndex.java	/^    protected Signature previousSignature;$/;"	f	class:IntraCameraIndex
+query	com/video/zilla/InterCameraIndex.java	/^    public List<QueryResult> query(FeatureND query) {$/;"	m	class:InterCameraIndex
+query	com/video/zilla/IntraCameraIndex.java	/^    public List<QueryResult> query(FeatureND query, Set<String> labels) {$/;"	m	class:IntraCameraIndex
+remove	com/video/zilla/Index.java	/^    public void remove(Signature s) {$/;"	m	class:Index
+removeIntraIndex	com/video/zilla/InterCameraIndex.java	/^    public void removeIntraIndex(String cameraId) {$/;"	m	class:InterCameraIndex
+signatureCounter	com/video/zilla/IntraCameraIndex.java	/^    long signatureCounter;$/;"	f	class:IntraCameraIndex
+signatureToCameraID	com/video/zilla/InterCameraIndex.java	/^    protected Map<Signature, String> signatureToCameraID;$/;"	f	class:InterCameraIndex
+toResult	com/video/zilla/IntraCameraIndex.java	/^    private QueryResult toResult(Signature s) {$/;"	m	class:IntraCameraIndex	file:
+tree	com/video/zilla/Index.java	/^    protected Ptree tree = null;$/;"	f	class:Index
+update	com/video/zilla/InterCameraIndex.java	/^    private void update() {$/;"	m	class:InterCameraIndex	file:
+updateIndex	com/video/zilla/InterCameraIndex.java	/^    public void updateIndex(List<Signature> add, List<Signature> remove, String cameraId) {$/;"	m	class:InterCameraIndex
+updateIndex	com/video/zilla/IntraCameraIndex.java	/^    private void updateIndex() {$/;"	m	class:IntraCameraIndex	file:
